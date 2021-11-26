@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/uniteddevisers-website/static/css/main.28a4b2b6.chunk.css",
+    "main.js": "/uniteddevisers-website/static/js/main.51092f94.chunk.js",
+    "main.js.map": "/uniteddevisers-website/static/js/main.51092f94.chunk.js.map",
+    "runtime-main.js": "/uniteddevisers-website/static/js/runtime-main.dd08e7c2.js",
+    "runtime-main.js.map": "/uniteddevisers-website/static/js/runtime-main.dd08e7c2.js.map",
+    "static/js/2.cfd4d049.chunk.js": "/uniteddevisers-website/static/js/2.cfd4d049.chunk.js",
+    "static/js/2.cfd4d049.chunk.js.map": "/uniteddevisers-website/static/js/2.cfd4d049.chunk.js.map",
+    "index.html": "/uniteddevisers-website/index.html",
+    "static/css/main.28a4b2b6.chunk.css.map": "/uniteddevisers-website/static/css/main.28a4b2b6.chunk.css.map",
+    "static/js/2.cfd4d049.chunk.js.LICENSE.txt": "/uniteddevisers-website/static/js/2.cfd4d049.chunk.js.LICENSE.txt",
+    "static/media/1.6c1e4a4f.jpg": "/uniteddevisers-website/static/media/1.6c1e4a4f.jpg",
+    "static/media/2.c8a8aa92.jpg": "/uniteddevisers-website/static/media/2.c8a8aa92.jpg",
+    "static/media/3.47a1a1eb.jpg": "/uniteddevisers-website/static/media/3.47a1a1eb.jpg",
+    "static/media/4.a799f0c0.jpg": "/uniteddevisers-website/static/media/4.a799f0c0.jpg",
+    "static/media/5.ff0782d5.jpg": "/uniteddevisers-website/static/media/5.ff0782d5.jpg",
+    "static/media/NavSubListImage.b226abd6.jpg": "/uniteddevisers-website/static/media/NavSubListImage.b226abd6.jpg",
+    "static/media/banner1.f6f16685.jpg": "/uniteddevisers-website/static/media/banner1.f6f16685.jpg",
+    "static/media/banner2.57a61d5f.jpg": "/uniteddevisers-website/static/media/banner2.57a61d5f.jpg",
+    "static/media/web-development.4662c816.png": "/uniteddevisers-website/static/media/web-development.4662c816.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.dd08e7c2.js",
+    "static/js/2.cfd4d049.chunk.js",
+    "static/css/main.28a4b2b6.chunk.css",
+    "static/js/main.51092f94.chunk.js"
+  ]
+}
